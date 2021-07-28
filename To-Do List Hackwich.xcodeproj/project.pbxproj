@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		150814DB26B1B94500660A82 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150814DA26B1B94500660A82 /* ToDoList.swift */; };
 		15C18D2426B1B1F700D362FB /* To_Do_List_HackwichApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C18D2326B1B1F700D362FB /* To_Do_List_HackwichApp.swift */; };
 		15C18D2626B1B1F700D362FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C18D2526B1B1F700D362FB /* ContentView.swift */; };
 		15C18D2826B1B1FF00D362FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15C18D2726B1B1FF00D362FB /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		150814DA26B1B94500660A82 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
 		15C18D2026B1B1F700D362FB /* To-Do List Hackwich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "To-Do List Hackwich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15C18D2326B1B1F700D362FB /* To_Do_List_HackwichApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_List_HackwichApp.swift; sourceTree = "<group>"; };
 		15C18D2526B1B1F700D362FB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				15C18D2326B1B1F700D362FB /* To_Do_List_HackwichApp.swift */,
 				15C18D2526B1B1F700D362FB /* ContentView.swift */,
+				150814DA26B1B94500660A82 /* ToDoList.swift */,
 				15C18D2726B1B1FF00D362FB /* Assets.xcassets */,
 				15C18D2C26B1B1FF00D362FB /* Info.plist */,
 				15C18D2926B1B1FF00D362FB /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15C18D2626B1B1F700D362FB /* ContentView.swift in Sources */,
+				150814DB26B1B94500660A82 /* ToDoList.swift in Sources */,
 				15C18D2426B1B1F700D362FB /* To_Do_List_HackwichApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
